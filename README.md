@@ -85,7 +85,7 @@ CREATE TABLE students(
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/student-management-system.git
+git clone https://github.com/thisismanikanta/student-management-system.git
 ```
 
 2. Import the project into **Eclipse IDE**
